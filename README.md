@@ -25,7 +25,7 @@ This project is a simple real-time face detection application using OpenCV and T
 
 Make sure Python is installed, then install OpenCV via pip:
 
-## **bash**
+## **Bash**
 pip install opencv-python
 
 
